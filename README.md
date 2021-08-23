@@ -1,0 +1,1 @@
+# Predictions-of-an-individual-s-income-as-a-function-of-their-parents-income
